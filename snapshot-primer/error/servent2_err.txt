@@ -1,0 +1,5 @@
+Exception in thread "Thread-3" java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at cli.CLIParser.run(CLIParser.java:39)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+20:03:09 - Cannot send message MESSAGE: STOP (Connection refused)
